@@ -2,9 +2,9 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "YoshidaaScript",
+    Name = "YoshidaaScript | Baddies",
     LoadingTitle = "Script For Baddies",
-    LoadingSubtitle = "by Yoshidaa",
+    LoadingSubtitle = "by Yoshida",
     ConfigurationSaving = {Enabled = false}
 })
 
@@ -12,7 +12,10 @@ local Window = Rayfield:CreateWindow({
 local FOVEnabled = false
 local HitboxEnabled = false
 
---// LOADING SCREEN (LIKE YOUR PIC)
+local fovValue = 70
+local HitboxSize = 5
+
+--// LOADING (1 MINUTE)
 local function ShowMakuLoading()
     local player = game.Players.LocalPlayer
     local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
@@ -24,29 +27,17 @@ local function ShowMakuLoading()
     frame.BorderSizePixel = 2
     frame.BorderColor3 = Color3.fromRGB(0,255,0)
 
-    -- TITLE
     local title = Instance.new("TextLabel", frame)
     title.Size = UDim2.new(1,0,0,40)
-    title.Text = "YOSHIDAA SCRIPTS Loading"
+    title.Text = "YoshidaaScript Loading"
     title.TextColor3 = Color3.fromRGB(0,255,0)
     title.BackgroundTransparency = 1
     title.Font = Enum.Font.Code
     title.TextScaled = true
 
-    -- SUBTITLE
-    local sub = Instance.new("TextLabel", frame)
-    sub.Size = UDim2.new(1,0,0,20)
-    sub.Position = UDim2.new(0,0,0,40)
-    sub.Text = "DOWNLOADING SCRIPT MODULES..."
-    sub.TextColor3 = Color3.fromRGB(0,200,0)
-    sub.BackgroundTransparency = 1
-    sub.Font = Enum.Font.Code
-    sub.TextScaled = true
-
-    -- LOGS
     local logs = Instance.new("TextLabel", frame)
     logs.Size = UDim2.new(1,-20,0,140)
-    logs.Position = UDim2.new(0,10,0,70)
+    logs.Position = UDim2.new(0,10,0,60)
     logs.BackgroundTransparency = 1
     logs.TextColor3 = Color3.fromRGB(0,255,0)
     logs.Font = Enum.Font.Code
@@ -54,7 +45,6 @@ local function ShowMakuLoading()
     logs.TextYAlignment = Enum.TextYAlignment.Top
     logs.Text = ""
 
-    -- PROGRESS BAR BG
     local barBG = Instance.new("Frame", frame)
     barBG.Size = UDim2.new(1,-20,0,10)
     barBG.Position = UDim2.new(0,10,1,-40)
@@ -72,24 +62,14 @@ local function ShowMakuLoading()
     percent.BackgroundTransparency = 1
     percent.Font = Enum.Font.Code
 
-    -- WARNING BOX
-    local warn = Instance.new("TextLabel", frame)
-    warn.Size = UDim2.new(1,-20,0,40)
-    warn.Position = UDim2.new(0,10,1,-100)
-    warn.Text = "// CRITICAL WARNING\nDo not close while loading..."
-    warn.TextColor3 = Color3.fromRGB(0,255,0)
-    warn.BackgroundTransparency = 1
-    warn.Font = Enum.Font.Code
-    warn.TextScaled = true
-
     local messages = {
         "[INIT] Runtime started...",
         "Scanning Roblox...",
         "Locating DataModel...",
         "Attaching to Lua...",
         "[OK] Context acquired",
-        "Decrypting...",
-        "Bypassing...",
+        "Decrypting modules...",
+        "Bypassing checks...",
         "Finalizing..."
     }
 
@@ -101,7 +81,7 @@ local function ShowMakuLoading()
             logs.Text = logs.Text .. "\n> "..messages[i]
         end
 
-        task.wait(0.03)
+        task.wait(0.6) 
     end
 
     task.wait(1)
@@ -111,9 +91,7 @@ end
 --// TAB
 local Tab = Window:CreateTab("Main")
 
---// FOV SLIDER + TOGGLE
-local fovValue = 70
-
+--// FOV
 Tab:CreateSlider({
     Name = "FOV",
     Range = {70, 120},
@@ -121,9 +99,6 @@ Tab:CreateSlider({
     CurrentValue = 70,
     Callback = function(Value)
         fovValue = Value
-        if FOVEnabled then
-            workspace.CurrentCamera.FieldOfView = fovValue
-        end
     end
 })
 
@@ -134,16 +109,33 @@ Tab:CreateToggle({
         FOVEnabled = Value
 
         if Value then
-            ShowMakuLoading() -- 🔥 loading when enabled
-        end
-
-        while FOVEnabled do
-            workspace.CurrentCamera.FieldOfView = fovValue
-            task.wait()
+            ShowMakuLoading()
         end
     end
 })
 
+--// FOV LOOP (optimized)
+task.spawn(function()
+    while true do
+        if FOVEnabled then
+            workspace.CurrentCamera.FieldOfView = fovValue
+        end
+        task.wait()
+    end
+end)
+
+--// HITBOX SLIDER
+Tab:CreateSlider({
+    Name = "Hitbox Size",
+    Range = {5, 20},
+    Increment = 1,
+    CurrentValue = 5,
+    Callback = function(Value)
+        HitboxSize = Value
+    end
+})
+
+--// HITBOX TOGGLE
 Tab:CreateToggle({
     Name = "Hitbox Expander",
     CurrentValue = false,
@@ -151,20 +143,28 @@ Tab:CreateToggle({
         HitboxEnabled = Value
 
         if Value then
-            ShowMakuLoading() 
-        end
-
-        while HitboxEnabled do
-            for _,v in pairs(game.Players:GetPlayers()) do
-                if v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChild("HumanoidRootPart") then
-                    v.Character.HumanoidRootPart.Size = Vector3.new(5,5,5)
-                    v.Character.HumanoidRootPart.Transparency = 0.5
-                    v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
-                    v.Character.HumanoidRootPart.Material = Enum.Material.Neon
-                    v.Character.HumanoidRootPart.CanCollide = false
-                end
-            end
-            task.wait(1)
+            ShowMakuLoading()
         end
     end
 })
+
+--// HITBOX LOOP (optimized)
+task.spawn(function()
+    while true do
+        if HitboxEnabled then
+            for _,v in pairs(game.Players:GetPlayers()) do
+                if v ~= game.Players.LocalPlayer 
+                and v.Character 
+                and v.Character:FindFirstChild("HumanoidRootPart") then
+
+                    local hrp = v.Character.HumanoidRootPart
+                    hrp.Size = Vector3.new(HitboxSize, HitboxSize, HitboxSize)
+                    hrp.Transparency = 0.5
+                    hrp.Material = Enum.Material.Neon
+                    hrp.CanCollide = false
+                end
+            end
+        end
+        task.wait(0.5)
+    end
+end)
