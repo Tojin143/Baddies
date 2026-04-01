@@ -2,18 +2,22 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "YoshidaaScript | Baddies",
+    Name = "YoshidaaHub | Baddies",
     LoadingTitle = "Script For Baddies",
-    LoadingSubtitle = "by Yoshida",
+    LoadingSubtitle = "by Yoshidaa",
     ConfigurationSaving = {Enabled = false}
 })
 
 --// VARIABLES
 local FOVEnabled = false
 local HitboxEnabled = false
+local FastPunch = false
+local PunchAura = false
 
 local fovValue = 70
 local HitboxSize = 5
+local PunchSpeed = 0.05
+local AuraDistance = 10
 
 --// LOADING (1 MINUTE)
 local function ShowMakuLoading()
@@ -81,7 +85,7 @@ local function ShowMakuLoading()
             logs.Text = logs.Text .. "\n> "..messages[i]
         end
 
-        task.wait(0.6) 
+        task.wait(0.2)
     end
 
     task.wait(1)
@@ -107,14 +111,10 @@ Tab:CreateToggle({
     CurrentValue = false,
     Callback = function(Value)
         FOVEnabled = Value
-
-        if Value then
-            ShowMakuLoading()
-        end
+        if Value then ShowMakuLoading() end
     end
 })
 
---// FOV LOOP (optimized)
 task.spawn(function()
     while true do
         if FOVEnabled then
@@ -124,10 +124,10 @@ task.spawn(function()
     end
 end)
 
---// HITBOX SLIDER
+--// HITBOX
 Tab:CreateSlider({
     Name = "Hitbox Size",
-    Range = {5, 20},
+    Range = {5, 30},
     Increment = 1,
     CurrentValue = 5,
     Callback = function(Value)
@@ -135,20 +135,15 @@ Tab:CreateSlider({
     end
 })
 
---// HITBOX TOGGLE
 Tab:CreateToggle({
     Name = "Hitbox Expander",
     CurrentValue = false,
     Callback = function(Value)
         HitboxEnabled = Value
-
-        if Value then
-            ShowMakuLoading()
-        end
+        if Value then ShowMakuLoading() end
     end
 })
 
---// HITBOX LOOP (optimized)
 task.spawn(function()
     while true do
         if HitboxEnabled then
@@ -168,3 +163,38 @@ task.spawn(function()
         task.wait(0.5)
     end
 end)
+
+--// FAST PUNCH
+Tab:CreateToggle({
+    Name = "Fast Punch",
+    CurrentValue = false,
+    Callback = function(Value)
+        FastPunch = Value
+        if Value then ShowMakuLoading() end
+    end
+})
+
+Tab:CreateSlider({
+    Name = "Punch Speed",
+    Range = {1, 10},
+    Increment = 1,
+    CurrentValue = 20,
+    Callback = function(Value)
+        PunchSpeed = 1 / Value
+    end
+})
+
+Tab:CreateToggle({
+    Name = "Punch Aura",
+    CurrentValue = false,
+    Callback = function(Value)
+        PunchAura = Value
+    end
+})
+
+Tab:CreateSlider({
+    Name = "Aura Distance",
+    Range = {5, 25},
+    Increment = 1,
+    CurrentValue = 10,
+    Callback = funct
