@@ -85,7 +85,7 @@ local function ShowMakuLoading()
             logs.Text = logs.Text .. "\n> "..messages[i]
         end
 
-        task.wait(0.2)
+        task.wait(0.1)
     end
 
     task.wait(1)
