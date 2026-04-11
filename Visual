@@ -2,7 +2,7 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "YoshidaaHub | Baddies",
+    Name = "MacroScript | Baddies",
     LoadingTitle = "Script For Baddies",
     LoadingSubtitle = "by Yoshidaa",
     ConfigurationSaving = {Enabled = false}
